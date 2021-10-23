@@ -1,0 +1,18 @@
+.classes{
+    text-align: center;
+    
+    margin-bottom: 100px;
+}
+.classes-bg{
+    background-image: url(http://entiretimes.com/html/school/images/inner_title_bg.jpg);
+    padding: 30px;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.all-classe {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding-left: 50px;
+}

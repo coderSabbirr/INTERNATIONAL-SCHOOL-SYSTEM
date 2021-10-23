@@ -1,0 +1,21 @@
+.footer-content {
+    background-color:#232936;
+    color: white;
+}
+.singal-content {
+    padding: 30px;
+}
+.singal-content h3 {
+    color: #38ADCE;
+}
+.singal-content a {
+    text-decoration: none;
+    color: aliceblue;
+}
+.copyright {
+    text-align: center;
+    background-color: #42495B;
+    margin: 0;
+    padding: 20px;
+    color: white;
+}
