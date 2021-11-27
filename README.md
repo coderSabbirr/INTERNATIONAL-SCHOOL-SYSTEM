@@ -1,36 +1,43 @@
 ## Project Name: INTERNATIONAL SCHOOL SYSTEM
+
 ## project Live : https://international-school-education-sabbir.netlify.app/
 
+## ❖ Overview
+
+• Online based school website</br>
+• Offers very kind of course for kids</br>
+• Various type of blogs which mainly contains smart parenting guidelines</br>
+
+## Technology Used:
+
+HTML, Vanilla CSS, Bootstrap, React.js,Netlify
 
 ## Project Status: complete!
 
-
-
 ## Project Screen Shot(s)
 
-#### Example:   
+#### Example:
 
 ![alt text](https://github.com/coderSabbirr/react-app/blob/main/Screenshot_134.jpg)
 
 ## Installation and Setup Instructions
 
-#### Example:  
+#### Example:
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
 Installation:
 
-`npm install`  
+`npm install`
 
-To Run Test Suite:  
+To Run Test Suite:
 
-`npm test`  
+`npm test`
 
 To Start Server:
 
-`npm start`  
+`npm start`
 
 To Visit App:
 
-`localhost:3000`  
-
+`localhost:3000`
