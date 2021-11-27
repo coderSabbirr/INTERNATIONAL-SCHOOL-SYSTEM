@@ -4,9 +4,13 @@
 
 ## ❖ Overview
 
+<<<<<<< HEAD
 • Online based school website</br>
 • Offers very kind of course for kids</br>
 • Various type of blogs which mainly contains smart parenting guidelines</br>
+=======
+## Project Status: uncomplete!
+>>>>>>> 81cc7aad92ed6957aae50450e73e37506d1c7984
 
 ## Technology Used:
 
